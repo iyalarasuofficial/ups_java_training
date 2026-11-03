@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38350522-4e6e-43eb-a9ba-91df888428f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/ATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/AbsBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/AnimalMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/JaggedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/MergeChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/WordRevers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/FindDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/FirstAppear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/RotateArrayByK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/SortNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day8/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ups_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3LaKCIIHvi9H6myn0Ibv4o58XHs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.FirstAppear.executor": "Run",
+    "Application.Jagged.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iyala\Desktop\ups_training\java" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38350522-4e6e-43eb-a9ba-91df888428f1" name="Changes" comment="" />
+      <created>1793686614807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793686614807</updated>
+    </task>
+    <servers />
+  </component>
+</project>
